@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Iphone 13",
+      "price": "10000",
+      "id": 1
+    },
+    {
+      "name": "Notebook Acer A515-54-59BU Intel Core i5 8GB - 256GB SSD 15,6” LED Full HD IPS Windows 10",
+      "price": "3533.07",
+      "id": 2
+    },
+    {
+      "name": "Fone de Ouvido Bluetooth Samsung Galaxy Buds2 - Intra auricular True Wireless com Microfone",
+      "price": "569",
+      "id": 3
+    },
+    {
+      "name": "Smart TV 55” 4K NEO QLED Mini Led Samsung 55QN85A - 120hz + Soundbar HW-Q600A/ZD com Subwoofer",
+      "price": "6999",
+      "id": 4
+    }
+  ]
+}
